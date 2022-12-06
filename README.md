@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
 <a href="https://instagram.com/abel_jr_ribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/abelribeiro150803" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/abel-ribeiro150803" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
