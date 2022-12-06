@@ -14,7 +14,7 @@
 Me chamo <b> Abel Ribeiro</b>.
 </p>
 <p align="left" >
-E aí devs e visitantes, meu nome é Abel Ribeiro, tenho 19 anos e, apesar da pouca idade, sempre em busca de novas tecnologias para aprender. <br />
+E aí devs e visitantes, meu nome é Abel Ribeiro, tenho 19 anos e, apesar da pouca idade, estou sempre em busca de novas tecnologias para aprender. <br />
 Sou Técnico em Eletrônica e Automação, atualmente explorando o vasto universo de desenvolvimento web</b>. <br/>
 </p>
 <br>
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 💼 Sou engajado em tecnologia, por este motivo estou sempre estudando e desenvolvendo-me academicamente na área;
+- 💼 Sou engajado em tecnologia, por este motivo estudo e me desenvolvo academicamente na área;
 
 <div>
 <a href="https://github.com/abel-ribeiro">
