@@ -6,8 +6,8 @@
 <p align="left" > 
   <b>console.log('Hello, World!');</b>
 </p>
-<a href="https://www.instagram.com/abel_jr_ribeiro/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+<a href="https://www.linkedin.com/in/abel-ribeiro150803/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br />
 <p align="left" >
@@ -17,9 +17,6 @@ Me chamo <b> Abel Ribeiro</b>.
 E aí devs e visitantes, meu nome é Abel Ribeiro, tenho 19 anos e, apesar da pouca idade, sempre em busca de novas tecnologias para aprender. <br />
 Sou Técnico em Eletrônica e Automação, atualmente explorando o vasto universo de desenvolvimento web</b>. <br/>
 </p>
-<a href="https://www.linkedin.com/in/abel-ribeiro150803/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
 <br>
 
 <!---
@@ -53,7 +50,6 @@ You can click the Preview link to take a look at your changes.
 ## Contatos:
 
 <div>
-<a href="https://instagram.com/abel_jr_ribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/abel-ribeiro150803" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
