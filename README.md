@@ -59,12 +59,9 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 💼 Sou engajado em tecnologia, por este motivo estou sempre estudando e desenvolvendo-me academicamente na área;
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Abel Ribeiro" />
-</p>
 
 <div>
 <a href="https://github.com/abel-ribeiro">
-<img align="right"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-ribeiro&layout=compact&langs_count=7&theme=dracula"/>
-<img align="right"height="180em" src="https://github-readme-stats.vercel.app/api?username=abel-ribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-ribeiro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abel-ribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
