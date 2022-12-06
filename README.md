@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
 
 
-## Contatos:
+## Contatos
 
 <div>
 <a href="https://www.linkedin.com/in/abel-ribeiro150803" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
