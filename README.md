@@ -65,6 +65,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/abel-ribeiro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-ribeiro&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abel-ribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-![Snake animation](https://github.com/abel-ribeiro/abel-ribeiro/blob/output/github-contribution-grid-snake.svg)
 </div>
