@@ -16,14 +16,14 @@ Me chamo <b> Abel Ribeiro</b>.<br/>
 </p>
 <p align="left" >
 E aí devs e visitantes, meu nome é Abel, tenho 19 anos e, apesar da pouca idade, estou sempre em busca de novas tecnologias para aprender. <br/>
-Sou Técnico em Eletrônica e Automação, atualmente explorando o vasto universo de desenvolvimento web</b>.<br/>
+Sou Técnico em Eletrônica e Automação, atualmente explorando o vasto universo de desenvolvimento webe TI</b>.<br/>
 Nesse perfil você encontrará, majoritariamente, projetos relacionados a tecnologias web voltadas para desenvolvimento front-end e back-end.
 <hr/>
 <br/>
 I'm <b>Abel Ribeiro</b>
 <br/>
 Hey visitors and devs, my name is Abel, i'm 19yo and, despite of being young, I'm always searching for new technologies to learn.<br/>
-I'm an Eletronics and Automation Technician, actually working on web development.<br/>
+I'm an Eletronics and Automation Technician, actually working on web development and IT.<br/>
 In this profile you will find projects related to web technologies concerning front and back-end development.
 </p>
 <br>
