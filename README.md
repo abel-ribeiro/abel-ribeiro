@@ -23,7 +23,7 @@ Nesse perfil você encontrará, majoritariamente, projetos relacionados a tecnol
 I'm <b>Abel Ribeiro</b>
 <br/>
 Hey visitors and devs, my name is Abel, i'm 19yo and, despite of being young, I'm always searching for new technologies to learn.<br/>
-I'm a Eletronics/Automation Technician, actually working on web development.<br/>
+I'm an Eletronics and Automation Technician, actually working on web development.<br/>
 In this profile you will find projects related to web technologies concerning front and back-end development.
 </p>
 <br>
