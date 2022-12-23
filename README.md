@@ -1,4 +1,5 @@
-<h1 align="center"> Seja bem-vinda e bem-vindo! </h1>
+<h1 align="center"> Seja bem-vinda e bem-vindo!</h1>
+<h1 align="center"> Welcome!</h1>
 <hr/>
 <a href="https://github.com/abel-ribeiro" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -11,11 +12,19 @@
 </a>
 <br />
 <p align="left" >
-Me chamo <b> Abel Ribeiro</b>.
+Me chamo <b> Abel Ribeiro</b>.<br/>
+I'm <b>Abel Ribeiro</b>
 </p>
 <p align="left" >
-E aí devs e visitantes, meu nome é Abel Ribeiro, tenho 19 anos e, apesar da pouca idade, estou sempre em busca de novas tecnologias para aprender. <br />
-Sou Técnico em Eletrônica e Automação, atualmente explorando o vasto universo de desenvolvimento web</b>. <br/>
+E aí devs e visitantes, meu nome é Abel, tenho 19 anos e, apesar da pouca idade, estou sempre em busca de novas tecnologias para aprender. <br/>
+Sou Técnico em Eletrônica e Automação, atualmente explorando o vasto universo de desenvolvimento web</b>.<br/>
+Nesse perfil você encontrará, majoritariamente, projetos relacionados a tecnologias web voltadas para desenvolvimento front-end e back-end.
+<hr/>
+I'm <b>Abel Ribeiro</b>
+<br/>
+Hey visitors and devs, my name is Abel, i'm 19yo and, despite of being young, I'm always searching for new technologies to learn.<br/>
+I'm a Eletronics/Automation Technician, actually working on web development.<br/>
+In this profile you will find projects related to web technologies concerning front and back-end development.
 </p>
 <br>
 
