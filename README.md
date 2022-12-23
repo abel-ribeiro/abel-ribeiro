@@ -16,7 +16,7 @@ Me chamo <b> Abel Ribeiro</b>.<br/>
 </p>
 <p align="left" >
 E aí devs e visitantes, meu nome é Abel, tenho 19 anos e, apesar da pouca idade, estou sempre em busca de novas tecnologias para aprender. <br/>
-Sou Técnico em Eletrônica e Automação, atualmente explorando o vasto universo de desenvolvimento webe TI</b>.<br/>
+Sou Técnico em Eletrônica e Automação, atualmente explorando o vasto universo de desenvolvimento web e TI</b>.<br/>
 Nesse perfil você encontrará, majoritariamente, projetos relacionados a tecnologias web voltadas para desenvolvimento front-end e back-end.
 <hr/>
 <br/>
